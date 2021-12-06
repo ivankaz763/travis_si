@@ -4,3 +4,7 @@ rvm:
   - 2.6
   - jruby
   - truffleruby
+  
+  branches:
+  only:
+    - master
